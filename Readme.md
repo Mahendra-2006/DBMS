@@ -27,7 +27,7 @@ The project consists of three main components :
 - Planned joins,transactions, AND `ALTER TABLE` 
 
 # Future Plans
--` ALTER TABLE `
+- ` ALTER TABLE `
 - Joins
 - Transactions
 
