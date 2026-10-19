@@ -1,0 +1,4 @@
+id   |   name   |   salary   |   
+ 1    |   Mahi    |   200    |   
+2    |   Keerthy    |   300    |   
+3    |   Mamitha    |   300    |   

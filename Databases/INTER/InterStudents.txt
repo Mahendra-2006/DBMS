@@ -1,0 +1,4 @@
+id   |   name   |   grade   |   
+1    |   Mahi    |   A    |   
+2    |   Keerthy    |   O    |   
+3    |   Mamitha    |   O    |   
